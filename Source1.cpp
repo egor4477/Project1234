@@ -15,7 +15,7 @@ int main() {
 
 
     double ld, V, g, L, ny, d;
-    g = 9.8;
+    g = 9.8;//jj
     V = 1;
     ny = pow(10, 6);
     Hc = 5;
